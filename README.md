@@ -38,7 +38,6 @@ Model performances are compared to determine the most effective algorithm in ter
 - Generalization on unseen data
 - Computation efficiency
 
-_Final evaluation results and discussion are available in the notebook/reports section._
+_Final evaluation results and discussion are available in the Data_visualization.ipynb section._
 
-## 📁 Project Structure
 
